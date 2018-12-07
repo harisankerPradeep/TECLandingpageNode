@@ -1,5 +1,4 @@
-# 1 - Hello world
-
+#Working version of Node server serving TEC landing page
 ![Build Status][ci-badge]
 
 This folder contains the sample code for a small App Engine application that
