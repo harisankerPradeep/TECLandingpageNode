@@ -18,10 +18,9 @@ and deploy this sample.
 
             gcloud init
 
-1.  Clone the repository:
+1.  Clone this repository:
 
-        git clone https://github.com/GoogleCloudPlatform/nodejs-getting-started.git
-
+        
 1.  Change directory:
 
         cd nodejs-getting-started/1-hello-world
